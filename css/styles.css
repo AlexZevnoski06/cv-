@@ -1,0 +1,92 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 600px;
+  margin: auto;
+}
+
+.contact {
+  text-align: center;
+}
+.more-about-me-paragraph {
+  margin: auto;
+}
+
+.thank-to {
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.mountain {
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+}
+.bottom-cloud {
+  position: relative;
+  top: 100px;
+}
+
+.top-container {
+  margin-top: -20px;
+  margin-left: -10px;
+  margin-right: -10px;
+  background-color: #e4f8f5;
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+
+.title-text {
+  text-align: center;
+  font-size: x-large;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+p {
+  margin: auto;
+  text-align: center;
+  line-height: 1.5;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+/**
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+**/
